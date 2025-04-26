@@ -1,5 +1,5 @@
 import { FaUser, FaPhone } from 'react-icons/fa';
-import './contact.css';
+import './Contact.css';
 const Contact = ({ contact, onDelete }) => {
   return (
     <li className="contact-item">
